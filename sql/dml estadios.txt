@@ -1,0 +1,35 @@
+INSERT INTO estadio(nome, cidade)
+VALUES ('Arena Corinthians', 'São Paulo');
+
+INSERT INTO estadio(nome, cidade)
+VALUES ('Arena das Dunas', 'Natal');
+
+INSERT INTO estadio(nome, cidade)
+VALUES ('Fonte Nova', 'Salvador');
+
+INSERT INTO estadio(nome, cidade)
+VALUES ('Arena Pantanal', 'Cuiabá');
+
+INSERT INTO estadio(nome, cidade)
+VALUES ('Mineirão', 'Belo Horizonte');
+
+INSERT INTO estadio(nome, cidade)
+VALUES ('Arena Pernambuco', 'Recife');
+
+INSERT INTO estadio(nome, cidade)
+VALUES ('Castelão', 'Fortaleza');
+
+INSERT INTO estadio(nome, cidade)
+VALUES ('Arena da Amazônia', 'Manaus');
+
+INSERT INTO estadio(nome, cidade)
+VALUES ('Mané Garrincha', 'Brasília');
+
+INSERT INTO estadio(nome, cidade)
+VALUES ('Beira Rio', 'Porto Alegre');
+
+INSERT INTO estadio(nome, cidade)
+VALUES ('Maracanã', 'Rio de Janeiro');
+
+INSERT INTO estadio(nome, cidade)
+VALUES ('Arena da Baixada', 'Curitiba');
